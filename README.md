@@ -3,6 +3,6 @@
 
 I have always been in love with Data science and machine learning with Python, but now I discovered there can be more.
 
-Built with Express.js, Mongodb and other interesting libraries
+Built with Express.js, Mongodb, some templating engines and other interesting libraries
 
 Watch this space.
